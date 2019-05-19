@@ -1,0 +1,540 @@
+﻿  winthread.cxx
+c:\users\minh hieu\desktop\bgi\winthread.cxx(320): warning C4101: 'i' : unreferenced local variable
+  winbgi.cxx
+c:\users\minh hieu\desktop\bgi\winbgi.cxx(81): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+c:\users\minh hieu\desktop\bgi\winbgi.cxx(134): warning C4101: 'actual_color' : unreferenced local variable
+c:\users\minh hieu\desktop\bgi\winbgi.cxx(133): warning C4101: 'bgi_color' : unreferenced local variable
+c:\users\minh hieu\desktop\bgi\winbgi.cxx(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+  text.cxx
+c:\users\minh hieu\desktop\bgi\text.cxx(348): warning C4018: '<' : signed/unsigned mismatch
+  Source.cpp
+c:\users\minh hieu\desktop\bgi\mylab.h(109): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(117): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(121): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(135): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(141): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(147): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(172): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(173): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\mylab.h(174): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\mylab.h(175): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(176): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\mylab.h(199): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(207): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(209): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(212): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(215): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(222): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(223): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(224): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(225): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(229): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(237): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(241): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(247): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(251): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(258): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(262): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(272): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(277): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(283): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(287): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(295): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(299): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(308): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(309): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(313): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(319): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(320): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(324): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(331): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(332): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(334): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(346): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(356): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(367): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(382): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(392): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(404): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(418): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(429): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(437): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(438): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(441): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(456): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(461): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(475): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(480): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(495): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(500): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(519): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(524): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(538): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(543): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(559): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(564): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(574): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(582): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(587): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(594): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(602): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(607): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(630): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(638): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(642): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(652): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(657): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(665): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\mylab.h(669): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(687): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(691): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(692): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(700): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(704): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(705): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(713): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(717): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(718): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(726): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(730): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(731): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(738): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(739): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(743): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(744): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(752): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(756): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(757): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\mylab.h(803): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(805): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(806): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\mylab.h(808): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(810): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(811): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\mylab.h(824): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(826): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(827): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\mylab.h(829): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(831): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\mylab.h(832): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(61): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(62): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(131): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(132): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(153): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(183): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(231): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(238): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(264): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(265): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(266): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(267): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(268): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(269): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(271): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\draw circle-midpoint.h(273): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\polygon.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\polygon.h(39): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\polygon.h(40): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\polygon.h(92): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\polygon.h(117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\polygon.h(124): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\polygon.h(125): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\polygon.h(137): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\minh hieu\desktop\bgi\polygon.h(171): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\polygon.h(244): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\polygon.h(258): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\polygon.h(260): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\polygon.h(264): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\polygon.h(270): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\ecllipse.h(24): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+c:\users\minh hieu\desktop\bgi\ecllipse.h(38): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+c:\users\minh hieu\desktop\bgi\ecllipse.h(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(83): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\ecllipse.h(84): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\ecllipse.h(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(101): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(120): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\ecllipse.h(149): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(198): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(207): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\ecllipse.h(230): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(231): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(232): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(233): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(234): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(235): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(237): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(244): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\ecllipse.h(246): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\square.h(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\square.h(20): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\square.h(21): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\square.h(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\square.h(121): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\square.h(122): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\square.h(145): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\square.h(174): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\minh hieu\desktop\bgi\square.h(203): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\square.h(284): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\square.h(293): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\square.h(307): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\square.h(308): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\square.h(309): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\square.h(310): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\square.h(311): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\square.h(312): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\square.h(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\square.h(317): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\rectangle.h(17): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\minh hieu\desktop\bgi\rectangle.h(46): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\rectangle.h(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\rectangle.h(117): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\rectangle.h(140): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\rectangle.h(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\rectangle.h(142): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\rectangle.h(143): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\rectangle.h(144): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : see declaration of '_itoa'
+c:\users\minh hieu\desktop\bgi\rectangle.h(145): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+c:\users\minh hieu\desktop\bgi\rectangle.h(148): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\rectangle.h(150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\rectangle.h(155): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\rectangle.h(157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\rectangle.h(159): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhhv.h(7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhhv.h(13): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(14): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(18): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(19): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(21): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(22): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(24): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(25): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(27): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(28): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(30): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(31): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(33): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(34): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(36): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(37): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(39): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhv.h(40): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(16): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(23): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(30): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(32): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(36): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(37): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(38): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(39): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(40): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(41): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(42): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(43): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(45): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(47): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(48): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(51): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(52): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(53): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(54): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(55): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(56): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(57): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(58): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(59): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(60): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(61): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(62): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(63): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(64): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(65): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhhcn.h(66): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh2.h(212): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh2.h(213): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh2.h(274): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinh2.h(301): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh2.h(330): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\minh hieu\desktop\bgi\hinh1.h(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinh1.h(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinh1.h(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinh1.h(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinh1.h(37): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh1.h(52): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh1.h(101): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinh1.h(128): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh1.h(129): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh1.h(160): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinh1.h(171): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\minh hieu\desktop\bgi\hinh1.h(196): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhnon.h(42): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhnon.h(56): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+c:\users\minh hieu\desktop\bgi\hinhnon.h(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhnon.h(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhnon.h(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhnon.h(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\hinhnon.h(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(44): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(74): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(77): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(87): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(92): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(102): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(116): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\source.cpp(229): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(232): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(234): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(237): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(243): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(247): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(263): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\source.cpp(348): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(352): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(355): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(357): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(360): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(365): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\source.cpp(374): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(377): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(381): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(385): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(392): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(395): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(399): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+c:\users\minh hieu\desktop\bgi\source.cpp(403): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+  main.cxx
+c:\users\minh hieu\desktop\bgi\main.cxx(189): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\main.cxx(192): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\main.cxx(195): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\main.cxx(333): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+c:\users\minh hieu\desktop\bgi\main.cxx(367): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\minh hieu\desktop\bgi\main.cxx(388): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\minh hieu\desktop\bgi\main.cxx(397): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  palette.cxx
+  mouse.cxx
+  misc.cxx
+  file.cxx
+  drawing.cxx
+c:\users\minh hieu\desktop\bgi\drawing.cxx(819): warning C4101: 'tries' : unreferenced local variable
+c:\users\minh hieu\desktop\bgi\drawing.cxx(859): warning C4101: 'answer' : unreferenced local variable
+c:\users\minh hieu\desktop\bgi\drawing.cxx(1110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+  dibutil.cxx
+  bgiout.cxx
+  Generating Code...
+LINK : warning LNK4031: no subsystem specified; CONSOLE assumed
+  bgi.vcxproj -> C:\Users\Minh Hieu\Desktop\bgi\Debug\bgi.exe
